@@ -187,4 +187,4 @@ php createDoubanIndex.php
 
 php insertDataToEs.php
 
-好了，以上准备工作已经做完了版权声明：本文为博主原创文章，转载请附上博文
+好了，以上准备工作已经做完了
