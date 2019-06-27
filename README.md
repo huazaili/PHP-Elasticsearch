@@ -1,3 +1,6 @@
+# PHP-Elasticsearch
+PHP中使用Elasticsearch
+
 PHP基于elasticsearch全文搜索引擎的开发
 1.概述：
 全文搜索属于最常见的需求，开源的 Elasticsearch （以下简称 Elastic）是目前全文搜索引擎的首选。Elastic 的底层是开源库 Lucene。但是，你没法直接用 Lucene，必须自己写代码去调用它的接口。Elastic 是 Lucene 的封装，提供了 REST API 的操作接口，开箱即用。Elasticsearch中涉及到的重要概念
