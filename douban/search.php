@@ -13,6 +13,7 @@ $from = ($page - 1) * $pre_page;
 $params = [
     'index' => 'douban',
     'type' => 'dd_book',
+    
     // how long between scroll requests. should be small!
     //"scroll" => "10s"
     // how many results *per shard* you want back

@@ -1,6 +1,16 @@
 {
+    "name": "lca/elasticsearch",
+    "description": "Php Elasticsearch Project Development Practice",
+    "type": "project",
     "require": {
-        "illuminate/database": "~4.2",
-        "elasticsearch/elasticsearch": "~6.0"
-    }
+        "illuminate/database": "4.2",
+        "elasticsearch/elasticsearch": "6.0"
+    },
+    "license": "Learning projects can be used in business systems",
+    "authors": [
+        {
+            "name": "lichanghua",
+            "email": "741347507@qq.com"
+        }
+    ]
 }
