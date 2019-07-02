@@ -5,8 +5,6 @@ require __DIR__ . '/start.php';
 use Elasticsearch\ClientBuilder;
 
 //$client = ClientBuilder::create()->build();
-
-
 $host = ['127.0.0.1:9200'];
 $client = Elasticsearch\ClientBuilder::create()->setHosts($host)->build();
 
