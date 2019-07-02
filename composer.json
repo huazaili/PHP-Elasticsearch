@@ -6,7 +6,6 @@
         "illuminate/database": "~4.2",
         "elasticsearch/elasticsearch": "~6.0"
     },
-    "license": "(c) Copyright 2019person or company, all rights reserved.",
     "authors": [
         {
             "name": "lichanghua",
